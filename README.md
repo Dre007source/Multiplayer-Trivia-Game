@@ -1,10 +1,11 @@
-# CS230_Portfolio
+# 🎮 Draw It or Lose It
+
 CS 230 Portfolio Submission: The Gaming Room Software Design
 
  Project Overview
 This repository contains the completed software design document for *The Gaming Room*, a project that demonstrates my ability to design scalable and secure software applications while addressing client-specific requirements. The design focuses on creating a cross-platform multiplayer trivia game, *Draw It or Lose It*, which extends the current Android-only version to work seamlessly across web and mobile platforms.
 
- Client and Software Requirements
+Client and Software Requirements
 The client, *The Gaming Room*, required a responsive and scalable web application to:
 - Host on a reliable and secure server capable of supporting thousands of simultaneous users.
 - Ensure compatibility with multiple platforms, including Linux, Mac, Windows, iOS, and Android.
