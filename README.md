@@ -1,8 +1,6 @@
 # 🎮 Draw It or Lose It  
 *A Cross-Platform Multiplayer Trivia Game*
 
-[**Live Demo**](#) • [**Documentation**](#) • [**Project Report**](#)
-
 ---
 
 ## 🚀 Overview
